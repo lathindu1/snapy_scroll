@@ -1,0 +1,41 @@
+body{
+    scroll-snap-type: y mandatory;
+    overflow-y: scroll;
+}
+
+#section-one{
+    background-color:#24fe53;
+    text-align: center;
+    height: 100vh;
+    scroll-snap-align:start;
+}
+#section-two {
+    background-color: #fe3324;
+    text-align: center;
+    height: 100vh;
+    scroll-snap-align:start;
+}
+#section-three {
+    background-color: #7824fe;
+    text-align: center;
+    height: 100vh;
+    scroll-snap-align:start;
+}
+#section-four {
+    background-color: #2433fe;
+    text-align: center;
+    height: 100vh;
+    scroll-snap-align:start;
+}
+#section-five {
+    background-color: #fecb24;
+    text-align: center;
+    height: 100vh;
+    scroll-snap-align:start;
+}
+#section-six {
+    background-color: #fe24aa;
+    text-align: center;
+    height: 100vh;
+    scroll-snap-align:start;
+}
